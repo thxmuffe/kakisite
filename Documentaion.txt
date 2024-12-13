@@ -1,0 +1,13 @@
+Creation of Website with WordPress www.kakiteollisuus.fi
+
+1.First of all We create Locally website design and layout with Nicepage for Desktop which is available later to export as Nicepage project or WordPress Theme
+
+2. After we have created the layout and contect for Webpage >> We export from PUBLISH button where we export everything we need for online to WordPress
+
+3. Pls. download: 
+
+https://nicepage.com/download-wordpress# >> after downloading pls. install to WordPress plugins section, just upload the it takes place untill activate
+
+4. From Nicepage in Wordpress after Login into Nicepage >> Click import from Nicepage menu >> after that everything should work and >> You are ready with New Webpages made in WordPress NOTE (pls. remember to put default theme so it will work proparly)
+
+>> ENJOY WORDPRESS SITE
