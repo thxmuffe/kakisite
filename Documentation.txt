@@ -10,6 +10,6 @@ https://nicepage.com/download-wordpress# >> after downloading pls. install to Wo
 
 4. From Nicepage in Wordpress after Login into Nicepage >> Click import from Nicepage menu >> after that everything should work and >> You are ready with New Webpages made in WordPress NOTE (pls. remember to put default theme so it will work proparly)
 
-5. >> Kakiteollisuus FOldre and afterwards Import Käkiteollisuus zip file into Nicepage import button
+5. >> Kakiteollisuus Folder and afterwards Import Käkiteollisuus zip file into Nicepage import button
 
 >> ENJOY WORDPRESS SITE
